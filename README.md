@@ -10,7 +10,7 @@
 
 ### install
 
-all pre-builds are here: [releases](releases)
+all pre-build binaries are here: [releases](https://github.com/juri117/fl-xyz-tile-map-test/releases)
 
 ## screenshots
 
@@ -20,4 +20,5 @@ all pre-builds are here: [releases](releases)
 
 # credits
 
-thank you [flutter_map](https://github.com/fleaflet/flutter_map) Team, for the amazing map library
+* thank you [flutter_map](https://github.com/fleaflet/flutter_map) Team, for the amazing map library
+* thank you [open street maps](https://wiki.openstreetmap.org/wiki/Slippy_map_tilenames) for the well documented api
